@@ -13,7 +13,7 @@ public class TestFastDFS {
         StorageClient storageClient=null;
         StorageServer storageServer=null;
         //1.加载配置文件
-        //测试一下
+        //分支下开发
        ClientGlobal.init("client.conf");
         System.out.println(ClientGlobal.configInfo());
         //2.创建trackerCLient对象
